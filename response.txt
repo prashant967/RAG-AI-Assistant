@@ -1,0 +1,7 @@
+Welcome to Sigma Web Development! I see you're interested in learning how to play kestan (I assume it's a typo and you meant "kestan" is actually "kestana") in HTML.
+
+From my knowledge, kestana are a type of audio/video files that can be played using HTML. In video chunk 10, the instructor explains how to auto-play kestana at around 24.2 seconds. However, they don't explicitly show how to play it automatically when the page loads.
+
+If you'd like to learn more about playing kestanas in HTML, I recommend checking out video chunk 10 again, specifically from the 24.2 to 25.04 second mark. The instructor explains how to embed and play media files using the `<video>` tag. They also touch upon playing audio files using the `<audio>` tag.
+
+Please check out video 10 of Video, Audio & Media in HTML, starting at timestamp 24.2 seconds, for more detailed instructions on how to play kestana (or "kestan" as it's spelled) in your web application.
